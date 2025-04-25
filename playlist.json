@@ -1,0 +1,14 @@
+{
+    "New Song": {
+        "audio_file": "new_song.mp3",
+        "music_sheet": [
+            440,
+            440,
+            440,
+            0,
+            440,
+            440,
+            440
+        ]
+    }
+}
